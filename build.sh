@@ -13,4 +13,4 @@ if [ ! -f Dockerfile ]; then
 fi
 
 # build a local image
-docker build -t "mausy5043/mariadb-server:${tag}" .
+docker build -t "mausy5043/mariadb:${tag}" .

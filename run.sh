@@ -19,4 +19,4 @@ docker run -d \
            -p 3306:3306 \
            --name mariadb \
            -h mariadb \
-           "mausy5043/mariadb-server:${tag}"
+           "mausy5043/mariadb:${tag}"
