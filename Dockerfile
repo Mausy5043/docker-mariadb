@@ -11,7 +11,6 @@ RUN apt-get -qqy update    \
  && apt-get -qqy autoremove  \
  && apt-get -qqyV upgrade     \
  && apt-get install -qqy mytop \
-                         gnupg2 \
                          locales
 
 ENV LANG en_US.UTF-8

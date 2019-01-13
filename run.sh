@@ -20,3 +20,6 @@ docker run -d \
            --name mariadb \
            -h mariadb \
            "mausy5043/mariadb:${tag}"
+
+# for testing purposes:
+docker exec -it mariadb /bin/bash
