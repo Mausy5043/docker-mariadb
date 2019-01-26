@@ -1,8 +1,8 @@
 # docker-mariadb
 
-It is advised to clone the Git repository and build your own image from that, provided the latest build (see [Docker Hub](https://hub.docker.com/r/mausy5043/mariadb)) was successful.
-On GitHub: [https://github.com/Mausy5043/docker-mariadb](https://github.com/Mausy5043/docker-mariadb
-)
+It is advised to clone the Git repository and build your own image from that, provided the latest build (see [Docker Hub](https://hub.docker.com/r/mausy5043/mariadb)) was successful.  
+On GitHub: [https://github.com/Mausy5043/docker-mariadb](https://github.com/Mausy5043/docker-mariadb) DEPRECATED  
+On GitLab: [https://gitlab.com/mausy5043-docker/mariadb](https://gitlab.com/mausy5043-docker/mariadb) ACTIVE  
 
 ## Installing
 The preferred procedure is:
